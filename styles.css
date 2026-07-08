@@ -41,3 +41,7 @@ hr {
     color: #0071e3 !important; 
     text-decoration: none;
 }
+
+.projects, .about, .contact, .menu {
+    transition: all 0.25s ease-in-out !important;
+}
